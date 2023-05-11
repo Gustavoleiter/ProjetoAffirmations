@@ -21,14 +21,7 @@
             app:layoutManager="LinearLayoutManager" />
     </FrameLayout>
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintEnd_toEndOf="@+id/frameLayout"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="107dp" />
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
