@@ -1,6 +1,6 @@
 # ProjetoAffirmations
 
-
+<img src="https://github.com/Gustavoleiter/ProjetoAffirmation/asset/im1.png" width="300px" heigth="500px">
 
 🔧<b>Funcionalidade</b>:<br>Usando a RecyclerView para exibir uma lista de cartões. Cada cartão contém uma imagem e um texto 
 <hr>
