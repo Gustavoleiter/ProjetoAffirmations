@@ -5,6 +5,7 @@
 🔧<b>Funcionalidade</b>:<br>Usando a RecyclerView para exibir uma lista de cartões. Cada cartão contém uma imagem e um texto 
 <hr>
 📰<b>Informações</b>: <br> projeto realizado em sala de aula, aplicando funções e a RecyclerView. Kotlin - Android Studio - 17/05/23
+<br>Projeto baseado no link do codelab: https://developer.android.com/codelabs/basic-android-kotlin-training-affirmations-app-polish#0 
 <hr>
 📈<b>Projeto</b>: <br> Finalizado
 <hr>
